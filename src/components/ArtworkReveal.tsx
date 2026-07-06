@@ -51,7 +51,7 @@ export function ArtworkReveal() {
           transition={{ duration: 2.2, ease: "easeOut" }}
           className="text-shadow-warm font-display text-lg uppercase text-lamp-glow sm:text-xl"
         >
-          Meenakshi Thirukalyanam
+          Following the Homam, we warmly invite you to join us for lunch at Courtyard by Marriott.
         </motion.p>
       </div>
     </section>
